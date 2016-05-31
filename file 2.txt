@@ -1,4 +1,8 @@
 llllll
 jamesravi---third scenario
+<<<<<<< .mine
 fourth time
-6
+=======
+fourth time
+>>>>>>> .theirs
+fifth6

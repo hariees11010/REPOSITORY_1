@@ -1,8 +1,5 @@
 llllll
-jamesravi---third scenario
-<<<<<<< .mine
+jamesravi
+third scenario
 fourth time
-=======
-fourth time
->>>>>>> .theirs
 fifth6

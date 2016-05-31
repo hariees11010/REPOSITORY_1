@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 llllll
-=======
 jamesravi---third scenario
->>>>>>> 8401f254bb0856b38c5bc9b8c0e4bea68034707a
